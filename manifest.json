@@ -3,7 +3,7 @@
     "version":"1.0.0",
     "description":"Try to build an extension",
     "manifest_version":3,
-    "author": "Raunak Gupta & Shashwat Rai",
+    "author": "Subhrajyoti Nayak",
     "action": {
         "default_popup": "index.html",
         "default_title": "Upcoming Contest"
